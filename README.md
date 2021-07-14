@@ -6,7 +6,9 @@
 
  </div>
  
-  | Project     | Description | Technology | 
-  |:-----------:|:-------------:| :------------:|
-  | xcomManager | **Web App:** Team Builder for Xcom:EU Long War Mod | React.js, JavaScript, Node, PostgresSQL, Express, CSS, TablePlus |
-  | HelpApp | **Phone App:** Personal safety app including emergency contacting features | React Native, Expo, What3Words Api, Twilio API |
+  | Project     | Description | Technology | Progress |
+  |:-----------:|:-------------:| :------------:|:------------:|
+  | xcomManager | **Web App:** Team Builder for Xcom:EU Long War Mod | React.js, JavaScript, Node, PostgresSQL, Express, CSS, TablePlus | Complete 👽 |
+  | HelpApp | **Phone App:** Personal safety app including emergency contacting features | React Native, Expo, What3Words Api, Twilio API | In Progress 📱 |
+  |Steam Libary Compare (WIP) | **Web App** Compare steam libary's and use preferential voting to decide on which games to play | Javascript, Next, Express | In progress 🎮 |
+  
