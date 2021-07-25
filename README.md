@@ -10,7 +10,8 @@
  
  ## Intro 
 I am a self-taught full stack developer specialising in the front end. I have experience in Javascript, TypeScript and Python, using frameworks such as Express, Node and Next. I also have used libraries such as React and Chakra. In addition i am familiar with using databases for example PostgreSQL. This and more can be seen in my projects below.
-Currently i am changing career paths and looking for a entry level role or apprentiship to continue my studies and further my skills.
+<br />
+Currently i am changing career paths and looking for a entry level role or apprenticeship to continue my studies and further my skills.
 
  ## Projects
  
@@ -19,8 +20,8 @@ Currently i am changing career paths and looking for a entry level role or appre
   |:-----------:|:-------------:| :------------:|:------------:|
   | [xcomManager](https://github.com/TobyLynas/xcomManager) | **Web App:** Team Builder for Xcom:EU Long War Mod | React.js, JavaScript, Node, PostgresSQL, Express, CSS, TablePlus | Complete 👽 |
   | [HelpApp](https://github.com/TobyLynas/HelpApp) | **Phone App:** Personal safety app including emergency contacting features | React Native, Expo, What3Words Api, Twilio API | In Progress 📱 |
-  |Steam Libary Compare (WIP) | **Web App** Compare steam libary's and use preferential voting to decide on which games to play | Javascript, Next, Express | In progress 🎮 |
-  |Valheim Mod | **Game Mod** A small mod to add custom pets to Valheim | C#, Unity | Early Development 🐶 |
+  |Steam Libary Compare (Group Project) | **Web App:** Compare steam libary's and use preferential voting to decide on which games to play | TypeScript, Next, Express | In progress 🎮 |
+  |Valheim Mod | **Game Mod:** A small mod to add custom pets to Valheim | C#, Unity | Early Development 🐶 |
   
    ## Skills
 - Ability to work in a team as well as independently. 
@@ -37,7 +38,7 @@ Currently i am changing career paths and looking for a entry level role or appre
 
   
 ## Interests
-  I also enjoy a wide range of personal interests outside of work such as playing the guitar, cycling and cooking. I have also been a member of the scouts for the majority of my life going through all stages of the organisation and taking part in several charity events. And i could not finish this section if i did'nt my intrest in gaming!
+  I also enjoy a wide range of personal interests outside of work such as playing the guitar, cycling and cooking. I have also been a member of the scouts for the majority of my life going through all stages of the organisation and taking part in several charity events. And i could not finish this section if i didn't my interest in gaming!
   
   
 
