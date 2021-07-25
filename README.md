@@ -25,7 +25,7 @@ Currently i am changing career paths and looking for an entry level role or appr
   
    ## Skills
 - Ability to work in a team as well as independently. 
-- Peer programming to overcome problems with efficency.
+- Peer programming to overcome problems with efficiency.
 - An in depth knowledge of computers and their systems including hardware operations. 
 - Self-motivated. 
 - Problem solving. 
