@@ -9,13 +9,13 @@
  </div>
  
  ## Intro 
-I am a self-taught full stack engineer specialising in fron end development. I have experience in JavaScript, TypeScript and C#, using multiple frameworks/libary's for all. I excel working both independently and collaboratively. In addition i am familiar with using databases for example PostgreSQL. This and more can be seen in my projects below.
+I am a self-taught full stack engineer specialising in fron end development. I am continually striving to write clear, effective and tidy code. I have experience in JavaScript, TypeScript and C#, using multiple frameworks/libary's for all. I excel working both independently and collaboratively. In addition i am familiar with using databases for example PostgreSQL. examples of my  organisational and time-keeping skills are highlighted through contributing to team coding projects that involve a deadline, collaboration, and effective code. I have used JIRA, Figma, to lead and participate in sprint plans and to ensure projects are kept on schedule. 
+This and more can be seen in my projects below.
+<br />
 <br />
 Currently i am changing career paths and looking for a entry level role or apprenticeship in web development to further my skills in a professional working enviroment. 
 
  ## Projects
- 
-
   | Project     | Description | Technology | Progress |
   |:-----------:|:-------------:| :------------:|:------------:|
   | [xcomManager](https://github.com/TobyLynas/xcomManager) | **Web App:** Team Builder for Xcom:EU Long War Mod | React.js, JavaScript, Node, PostgresSQL, Express, CSS, TablePlus | Complete 👽 |
@@ -24,20 +24,17 @@ Currently i am changing career paths and looking for a entry level role or appre
   |Valheim Mod | **Game Mod:** A small mod to add custom pets to Valheim | C#, Unity | Early Development 🐶 |
   
    ## Skills
-   - My organisational and time-keeping skills are developed through contributing to team coding projects that involve a deadline, collaboration, and effective code. I have used JIRA, Figma, to lead sprint plans and ensure projects are kept on schedule. Also through this project we used peer programming to collaborate on the most effecicent solution to the challenges we faced.
-
-   
 - Ability to work in a team as well as independently. 
-- Peer programming.
-- An in depth knowledge of computers. 
+- Peer programming to overcome problems with efficency.
+- An in depth knowledge of computers and their systems including hardware operations. 
 - Self-motivated. 
-- Problem solving skills. 
-- Detail oriented.  
-- Clear communicator.
-- Willingness to learn.
+- Problem solving. 
+- Detail oriented and a keen eye for finishing details.
+- Clear and effective communicator.
+- Enthusiasm to learn.
 - Sprint planning.
-- Scrumming.
-- Ability to meet deadlines.
+- Agile development.
+- Ability to meet deadlines consistently.
 
   
 ## Interests
