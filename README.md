@@ -3,13 +3,15 @@
    <h1> Toby Lynas </h1>
    <a href='https://www.linkedin.com/in/toby-lynas-3123a01ab/'><img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg' width='30'> </a>
        <br/>
-    <h4><a href="#projects">Projects</a> | <a href="#education">Education</a> | <a href="#experience">Experience</a> | <a href="#skills">Skills</a> | <a href="#interests">Interests</a></h4>
+    <h4><a href="#projects">Projects</a> | <a href="#interests">Interests</a> | <a href="#experience">Experience</a> | <a href="#skills">Skills</a> | <a href="#education">Education</a> </h4>
   </h1>
 </div>
+ </div>
+ 
+ ## Intro 
 
  ## Projects
-
- </div>
+ 
 
   | Project     | Description | Technology | Progress |
   |:-----------:|:-------------:| :------------:|:------------:|
@@ -17,5 +19,10 @@
   | [HelpApp](https://github.com/TobyLynas/HelpApp) | **Phone App:** Personal safety app including emergency contacting features | React Native, Expo, What3Words Api, Twilio API | In Progress 📱 |
   |Steam Libary Compare (WIP) | **Web App** Compare steam libary's and use preferential voting to decide on which games to play | Javascript, Next, Express | In progress 🎮 |
   
+  ## Interests
   
+  ## Experience
  
+ ## Skills
+ 
+ ## Education
