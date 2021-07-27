@@ -9,11 +9,11 @@
  </div>
  
  ## Intro 
-I am a self-taught full stack engineer specialising in front end development. I am continually striving to write clear, effective and tidy code. I have experience in JavaScript, TypeScript and C#, using multiple frameworks/library's for all. I excel working both independently and collaboratively. In addition i am familiar with using databases for example PostgreSQL. examples of my  organisational and time-keeping skills are highlighted through contributing to team coding projects that involve a deadline, collaboration, and effective code. I have used JIRA, Figma, to lead and participate in sprint plans and to ensure projects are kept on schedule. 
+I am a self-taught full stack engineer specialising in front end development. I am continually striving to write clear, effective and tidy code. I have experience in JavaScript, TypeScript and C#, using multiple frameworks/library's for all. I excel working both independently and collaboratively. In addition I am familiar with using databases for example PostgreSQL. Examples of my  organisational and time-keeping skills are highlighted through contributing to team coding projects that involve a deadline, collaboration, and effective code. I have used JIRA, Figma, to lead and participate in sprint plans and to ensure projects are kept on schedule. 
 This and more can be seen in my projects below.
 <br />
 <br />
-Currently i am changing career paths and looking for an entry level role or apprenticeship in web development to further my skills in a professional working environment. 
+Currently I am changing career paths and looking for an entry level role or apprenticeship in web development to further my skills in a professional working environment. 
 
  ## Projects
   | Project     | Description | Technology | Progress |
