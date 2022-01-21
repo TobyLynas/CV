@@ -6,7 +6,7 @@
     <h4><a href="#projects">Projects</a> | <a href="#skills">Skills</a>  | <a href="#interests">Interests</a>  | <a href="#education">Education</a> | <a href="#experience">Experience</a>  </h4>
   </h1>
 </div>
- </div>
+
  
  # Intro 
 I am a self-taught full stack engineer specialising in front end development. I am continually striving to write clear, effective and tidy code. I have experience in JavaScript, TypeScript and C#, using multiple frameworks/library's for all. I excel working both independently and collaboratively. In addition I am familiar with using databases for example PostgreSQL. Examples of my  organisational and time-keeping skills are highlighted through contributing to team coding projects that involve a deadline, collaboration, and effective code. I have used JIRA, Figma, to lead and participate in sprint plans and to ensure projects are kept on schedule. 
@@ -40,8 +40,6 @@ Currently I am changing career paths and looking for an entry level role or appr
 # Interests
   I also enjoy a wide range of personal interests outside of work such as playing the guitar, cycling and cooking. I have also been a member of the scouts for the majority of my life going through all stages of the organisation and taking part in several charity events. And I could not finish this section if I didn't include my interest in gaming!
   
-  
-
  # Education
  
  ### University of Swansea, Wales, Aerospace engineering - 2018 to 2019
