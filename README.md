@@ -4,8 +4,8 @@
    <a href='https://www.linkedin.com/in/toby-lynas-3123a01ab/'><img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg' width='30'> </a>
        <br/>
     <h4><a href="#projects">Projects</a> | <a href="#skills">Skills</a>  | <a href="#interests">Interests</a>  | <a href="#education">Education</a> | <a href="#experience">Experience</a>  </h4>
-  </h1>
 </div>
+ </div>
 
  
  # Intro 
